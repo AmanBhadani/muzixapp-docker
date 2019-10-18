@@ -1,3 +1,3 @@
 # spring-boot-muzixApp
 
-CRUD operations on Muzix
+Using Mongodb and Docker-compose 
